@@ -7,7 +7,6 @@
 
 # Script description:
 # To generate the 4th plot
-
 source("readData.R")
 
 # Open file device
